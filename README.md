@@ -1,8 +1,8 @@
 # Breeding-chicken
 
-Das Programm kontrolliert und reguliert Luftfeuchtigkeit und Temperatur in einer DIY Brutkiste (Styroporbox mit Heizfolie,Nebler und Motor). Die Messdaten der Sensoren werden auf einem OLED 124x64 0,96" angezeigt.
+Das Programm kontrolliert und reguliert Luftfeuchtigkeit und Temperatur in einer DIY Brutkiste (Styroporbox mit Heizfolie, Nebler und Motor). Die Messdaten der Sensoren werden auf einem OLED 124x64 0,96" angezeigt.
 
-Es wird an den esp8266 nodemcu folgendes angeschlossen:
+Es wird an dem esp8266 nodemcu folgendes angeschlossen:
 
 Schwimmerschalter an D0
 
